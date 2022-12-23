@@ -1,0 +1,52 @@
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\bin\Debug\Peformans ödevi.exe.config
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\bin\Debug\Peformans ödevi.exe
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\bin\Debug\Peformans ödevi.pdb
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.csproj.AssemblyReference.cache
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form1.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form2.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Properties.Resources.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.csproj.GenerateResource.cache
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.csproj.CoreCompileInputs.cache
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.exe
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.pdb
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form3.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form4.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form5.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form10.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form11.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form12.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form13.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form14.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form15.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form6.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form7.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form8.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form9.resources
+C:\Users\omur5\Desktop\performans nese  tabanlı proglamlama\Peformans ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form16.resources
+F:\Performans Ödevi\Peformans ödevi\bin\Debug\Peformans ödevi.exe.config
+F:\Performans Ödevi\Peformans ödevi\bin\Debug\Peformans ödevi.exe
+F:\Performans Ödevi\Peformans ödevi\bin\Debug\Peformans ödevi.pdb
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.csproj.AssemblyReference.cache
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.csproj.SuggestedBindingRedirects.cache
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form1.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form10.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form11.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form12.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form13.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form14.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form15.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form16.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form2.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form3.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form4.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form5.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form6.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form7.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form8.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Form9.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans_ödevi.Properties.Resources.resources
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.csproj.GenerateResource.cache
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.csproj.CoreCompileInputs.cache
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.exe
+F:\Performans Ödevi\Peformans ödevi\obj\Debug\Peformans ödevi.pdb
